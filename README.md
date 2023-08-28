@@ -1,7 +1,9 @@
 ### Hi there [seheyah](https://seheyah.me) 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@seheyah-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=seheyah "Follow on Twitter")
+Have fun 
 
+<a href="https://twitter.com/seheyah" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40seheyah-blue"></a>
+<a href="https://seheyah.me" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-seheyah.me-red"></a>
 <!--
 **seheyah/seheyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
