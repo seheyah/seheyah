@@ -1,10 +1,19 @@
 ### Hi there [seheyah](https://seheyah.me) 👋
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seheyah)
+
+
 🐡 Have Fun!
 
 <a href="https://twitter.com/seheyah" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40seheyah-blue"></a>
 <a href="https://seheyah.me" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-seheyah.me-red"></a>
+
+
+[![Profile last updated](https://img.shields.io/github/last-commit/seheyah/seheyah/main?label=Last%20updated&style=flat)](https://github.com/seheyah/seheyah/commits)
+
 <!--
+![Profile Views](https://komarev.com/ghpvc/?username=seheyah&color=blue)
 **seheyah/seheyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
