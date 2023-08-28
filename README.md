@@ -1,6 +1,6 @@
 ### Hi there [seheyah](https://seheyah.me) 👋
 
-Have fun 
+🐡 Have Fun!
 
 <a href="https://twitter.com/seheyah" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40seheyah-blue"></a>
 <a href="https://seheyah.me" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-seheyah.me-red"></a>
