@@ -1,29 +1,30 @@
-### Hi there [seheyah](https://seheyah.me) 👋
+# 👨‍💻 Cybersecurity Officer | Threat Hunter | Security Analyst
+
+![Cybersecurity](https://img.shields.io/badge/Security-Paranoid%20and%20Proud-brightgreen)
+![Threat Intelligence](https://img.shields.io/badge/Threat-Intelligence-blue)
 
 
+Welcome to my GitHub! I’m a passionate **Cybersecurity Officer** with a mission to secure digital assets, detect threats, and build a safer cyber world. My expertise spans across:
+
+- 🔒 **Network Security & Firewalls & DNS**
+- 🧠 **Threat Hunting & Intelligence**
+- 👨‍💻 **Scripting & Automation**: Python, Bash
+
+---
+
+## 🔍 About Me
+
+- 🛡️ Currently serving as a **Cybersecurity Officer**
+- 🎯 Focused on proactive security: threat hunting, red/blue teaming, log analysis
+- 💾 "Hack the planet" advocate 🌎 🏴‍☠️
+- 🌐 OpenBSD forever 🐡
+- 📚 Lifelong learner exploring malware analysis, AI in security
+
+## 📝 Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seheyah)
 
+---
 
-🐡 Have Fun!
+> “Security isn’t just a product, it’s a process.” – Bruce Schneier
 
-<a href="https://twitter.com/seheyah" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40seheyah-blue"></a>
-<a href="https://seheyah.me" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-seheyah.me-red"></a>
-
-
-[![Profile last updated](https://img.shields.io/github/last-commit/seheyah/seheyah/main?label=Last%20updated&style=flat)](https://github.com/seheyah/seheyah/commits)
-
-<!--
-![Profile Views](https://komarev.com/ghpvc/?username=seheyah&color=blue)
-**seheyah/seheyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👾 Have Fun!
